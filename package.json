@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-modal": "^3.11.2",
+    "react-robot": "^0.2.1",
+    "react-scripts": "3.4.3",
+    "robot3": "^0.2.18"
   },
   "scripts": {
     "start": "react-scripts start",
